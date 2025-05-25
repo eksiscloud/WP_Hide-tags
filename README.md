@@ -7,3 +7,6 @@ I used this simple plugin to hide those two tags from random visitors, but is sh
 
 So if you use this you must change tags, or add new ones, directy in the php. if you want to do it the most easiest way you install the plugin and thwn jump to shell and edit using nano, vim or what ever is your choose.
 
+P.S.
+
+I used for translation this one: https://github.com/eksiscloud/LinguaBridgeWP.git
